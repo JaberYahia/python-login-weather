@@ -35,10 +35,11 @@ Python 3, requests library, Open-Meteo.
 
 ```python --version```
 
-clone repositorie
-2.``` git clone https://github.com/JaberYahia/python-login-weather.git```
+2. clone repository
+``` git clone https://github.com/JaberYahia/python-login-weather.git```
 
-3. ```cd python-login-weather```
+3. access folder
+ ```cd python-login-weather```
 
 4. Install the required library: 
 ```pip install requests```
