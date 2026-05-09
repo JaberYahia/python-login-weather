@@ -1,0 +1,24 @@
+#python bytecode cache
+__pycache__/
+
+*.pyc   
+*.pyo
+
+#sensitive user data 
+usrs.txt
+
+#virtual enviroments
+venv/
+env/
+.venv/
+
+#IDE settings
+.vscode/
+.idea/
+
+# OS-Specfic files
+Thumbs.db
+.DS_Store
+
+# Environment
+.env
